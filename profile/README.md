@@ -5,7 +5,7 @@
 
 Dear Students,
 
-Welcome to COP 4520! I am excited to teach each and every one of y'all the wonders of multiprogramming. However, I want to be upfront and honest with each of you. I want you to know that one of my main goals in teaching this class is to prepare you for industry and what is to come. 
+Welcome to Spring 2025! I am excited to teach and provide insights to my experience. However, I want to be upfront and honest with each of you. I want you to know that one of my main goals in teaching this class is to prepare you for industry and what is to come. 
 In addition to passing this course for your major, one of the things I felt that lacked in academia is a connection to industry. Therefore, I encourage everyone to ask questions and I will be happy to explain my experience, what I think you should do to get a headstart, and how to use 
 your knowledge in this course to your advantage.
 
